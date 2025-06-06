@@ -1,0 +1,2 @@
+alice: Love the app! Very clean UI.
+bob: Please add chart export to PDF.
